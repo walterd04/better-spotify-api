@@ -28,6 +28,16 @@
 
 Backend REST Api built for [Better Spotify](https://github.com/walterd04/better-spotify) that makes use of Spotify's own REST Api and [Nest](https://github.com/nestjs/nest).
 
+## Routes
+
+### /api/v1/users
+
+...
+
+### /api/v1/playlists
+
+...
+
 ## Installation
 
 ```bash
